@@ -1,0 +1,19 @@
+.buttons {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.empty_block_2 {
+    height: 400px;
+    width: 10px;
+}
+
+.empty_block_1, .empty_block_3 {
+    width: 230px;
+    height: 10px;
+}
+
+.empty_block_4 {
+    width: 400px;
+    height: 10px;
+}

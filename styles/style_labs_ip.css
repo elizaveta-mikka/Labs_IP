@@ -1,0 +1,19 @@
+.image_1, .image_2, .image_3 {
+    width: 300px;
+    height: 200px;
+    border: 10px solid white;
+}
+.empty_block_1_1,.empty_block_2_1, .empty_block_3_1 {
+    height: 10px;
+    width: 150px;
+}
+
+.text_1, .text_2, .text_3 {
+    width: 800px;
+    text-align: left;
+}
+
+.empty_block_1_2, .empty_block_2_2, .empty_block_3_2  {
+    height: 50px;
+    width: 50px;
+}

@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    background:  url(images/background.jpeg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.name_page {
+    background:  url(images/background_2.png) no-repeat center;
+    background-size: 1300px 100%;
+    padding: 30px;
+    font-family: serif;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+.block_main, .block_down {
+    background:  url(images/background_2.png) no-repeat center;
+    background-size: 1200px;
+    padding: 50px;
+    font-family: serif;
+    font-size: 25px;
+    color: white;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.button {
+    background: url(images/button.png);
+    font-family:serif;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    margin: 10px 10px;
+    border: 3px solid white;
+    border-radius: 5px;
+    text-decoration:underline;
+}
+
+.block_1, .block_2, .block_3
+{
+    display: flex;
+    flex-flow: row wrap;
+    font-size: 25px;
+    padding: 30px;
+}

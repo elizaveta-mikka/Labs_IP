@@ -1,0 +1,25 @@
+.button_gallery {
+    padding: 20px;
+}
+
+#mainImage {
+    height: 600px;
+    width: 450px;
+}
+
+i {
+    border: solid white;
+    border-width: 0 5px 5px 0;
+    display: inline-block;
+    padding: 10px;
+}
+
+.right {
+    transform: rotate(-45deg);
+}
+
+.left {
+    transform: rotate(135deg);
+}
+
+
